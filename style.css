@@ -19,3 +19,28 @@
     border: none;
     border-radius: 8px;
 }
+.catagori-1, .catagori-2, .catagori-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagori-1{
+    background-color: #FFA500;
+    color: white;
+    border-radius: 10px;
+}
+.catagori-2{
+    background-color: #DA70D6;
+}
+.catagori-3{
+    background-color: #0000FF;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
