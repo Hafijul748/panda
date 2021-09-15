@@ -40,7 +40,31 @@
 .catagories img{
     width: 100px;
 }
+@media only screen and (max-width: 768px) {
+    .catagory-responsive{
+        margin: 5px 0px;
+    }
+}
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    margin-top: 10px;
+    background-color: white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer a{
+    text-decoration: none;
+    color: black;
+}
+footer small a:hover{
+    text-decoration: none;
+    color: #FF136F;
 }
